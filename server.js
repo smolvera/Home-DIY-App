@@ -38,7 +38,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(router);
 
 // connect to deployed database otherwise Connect to the local mongoHeadlines database
-var db = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
+var db = process.env.MONGODB_URI || "mongodb://<dbuser>:<dbpassword>@ds255930.mlab.com:55930/heroku_z7blwv6m";
 
 mongoose.connect(db, function(err) {
     if (err) {

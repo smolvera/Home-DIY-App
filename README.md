@@ -19,7 +19,7 @@
 * HTML5
 
 ## Left to do
-- create pages test.html and in assets folder create css and image for design 
+- Headline.find().sort().exact function error needs to be fixed
 
 
 ## Built With
