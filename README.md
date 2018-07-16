@@ -2,7 +2,7 @@
 - An app that allows a user to to scrape the website www.Hometalk.com for articles and allows the user to save an article to the database. The user is also able to add a comment onto the saved article.. 
 
 <!-- change address to heroku address -->
-### To view the deployed version, _**[click here!](https://git.heroku.com/stark-reaches-34068.git)**_
+### To view the deployed version, _**[click here!](https://stark-reaches-34068.herokuapp.com/)**_
 
 ## Technologies used:
 * Node.js
