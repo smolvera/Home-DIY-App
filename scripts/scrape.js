@@ -28,7 +28,7 @@ var scrape = function(cb) {
         }
         // var header = $(this).children("story-heading")
     //     // Save an empty result object
-    //     var result = {};
+        // var result = {};
   
     });
     cb(articles);
